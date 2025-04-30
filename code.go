@@ -9,5 +9,8 @@ func main() {
 		fmt.Printf("%d ", i)
 		soma += i
 	}
+
+	// testando changes contribution
+
 	fmt.Printf("\n%d\n", soma)
 }
